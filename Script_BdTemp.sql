@@ -1,5 +1,6 @@
 teste do git
 terceiro commit
+teste clone
 
 
 -- MySQL Workbench Forward Engineering
